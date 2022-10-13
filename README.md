@@ -17,6 +17,7 @@ _JavaScript/typescript, shell, lua, AppleScript, (css)_
 ## Resources
 
 - [Crash Course on Computer Science - YT](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+- [Harvard's CS50: Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0) (free to learn, paid to be certified ?)
 
 ## Concepts
 
@@ -48,6 +49,10 @@ _JavaScript/typescript, shell, lua, AppleScript, (css)_
 - Game development
   - it can be a good way to learn OO if you're interested in it, it's a domain that lends itself well to objects
   - And there's a bunch of good Lua game engines
+
+### System Administration
+
+- [Course about Shell](https://missing.csail.mit.edu/2020/course-shell/)
 
 ## More advanced concept of code/programming language design
 
